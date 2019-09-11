@@ -1,0 +1,25 @@
+{
+  "name": "expressserverex",
+  "version": "1.0.0",
+  "description": "Express Practice Example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAT-HCA/ExpressServerEx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAT-HCA/ExpressServerEx/issues"
+  },
+  "homepage": "https://github.com/CAT-HCA/ExpressServerEx#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "hbs": "^4.0.4"
+  }
+}
